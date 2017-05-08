@@ -6,7 +6,7 @@ This is a collection of various [Factorio](https://www.factorio.com/) blueprints
 
 #### Misc
 
-- [`sl-book.txt`](./Blueprint Books/sl-book.txt) Collection of various blueprints - [Source](https://forums.factorio.com/viewtopic.php?f=8&t=46260)
+- [`sl-book.txt`](./Blueprint%20Books/sl-book.txt) Collection of various blueprints - [Source](https://forums.factorio.com/viewtopic.php?f=8&t=46260)
   - Science pack factory
   - Nuclear power
   - Solar power
@@ -16,18 +16,18 @@ This is a collection of various [Factorio](https://www.factorio.com/) blueprints
 
 #### Transport Belt related
 
-- [`balancer-red.txt`](./Blueprint Books/balancer-red.txt) Collection of red transport belt balancers - [Source](https://factorioprints.com/view/-KjJQnJQuP2ouhn9JNQv)
+- [`balancer-red.txt`](./Blueprint%20Books/balancer-red.txt) Collection of red transport belt balancers - [Source](https://factorioprints.com/view/-KjJQnJQuP2ouhn9JNQv)
 
 #### Train related
 
-- [`2 Lanes - 1-4.txt`](./Blueprint Books/2 Lanes - 1-4.txt) Train system parts with 2 lanes for 1-4 trains - [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575#p260487)
-- [`2 Lanes - 1-4-1.txt`](./Blueprint Books/2 Lanes - 1-4-1.txt) Train system parts with 2 lanes for 1-4-1 trains - [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575#p260487)*
-- [`2 Lanes - 2-6-2.txt`](./Blueprint Books/2 Lanes - 2-6-2.txt) Train system parts with 2 lanes for 2-6-2 trains - [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575#p260487)
-- [`2 Lanes - 2-8.txt`](./Blueprint Books/2 Lanes - 2-8.txt) Train system parts with 2 lanes for 2-8 trains - [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575#p260487)
-- [`4 Lanes - 1-4.txt`](./Blueprint Books/4 Lanes - 1-4.txt) Train system parts with 4 lanes for 1-4 trains- [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575&start=20#p260488)
-- [`4 Lanes - 1-4-1.txt`](./Blueprint Books/4 Lanes - 1-4-1.txt) Train system parts with 4 lanes for 1-4-1 trains - [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575&start=20#p260488)
-- [`4 Lanes - 2-6-2.txt`](./Blueprint Books/4 Lanes - 2-6-2.txt) Train system parts with 4 lanes for 2-6-2 trains - [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575&start=20#p260488)
-- [`4 Lanes - 2-8.txt`](./Blueprint Books/4 Lanes - 2-8.txt) Train system parts with 4 lanes for 2-8 trains - [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575&start=20#p260488)
+- [`2 Lanes - 1-4.txt`](./Blueprint%20Books/2%20Lanes%20-%201-4.txt) Train system parts with 2 lanes for 1-4 trains - [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575#p260487)
+- [`2 Lanes - 1-4-1.txt`](./Blueprint%20Books/2%20Lanes%20-%201-4-1.txt) Train system parts with 2 lanes for 1-4-1 trains - [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575#p260487)*
+- [`2 Lanes - 2-6-2.txt`](./Blueprint%20Books/2%20Lanes%20-%202-6-2.txt) Train system parts with 2 lanes for 2-6-2 trains - [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575#p260487)
+- [`2 Lanes - 2-8.txt`](./Blueprint%20Books/2%20Lanes%20-%202-8.txt) Train system parts with 2 lanes for 2-8 trains - [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575#p260487)
+- [`4 Lanes - 1-4.txt`](./Blueprint%20Books/4%20Lanes%20-%201-4.txt) Train system parts with 4 lanes for 1-4 trains- [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575&start=20#p260488)
+- [`4 Lanes - 1-4-1.txt`](./Blueprint%20Books/4%20Lanes%20-%201-4-1.txt) Train system parts with 4 lanes for 1-4-1 trains - [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575&start=20#p260488)
+- [`4 Lanes - 2-6-2.txt`](./Blueprint%20Books/4%20Lanes%20-%202-6-2.txt) Train system parts with 4 lanes for 2-6-2 trains - [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575&start=20#p260488)
+- [`4 Lanes - 2-8.txt`](./Blueprint%20Books/4%20Lanes%20-%202-8.txt) Train system parts with 4 lanes for 2-8 trains - [Source](https://forums.factorio.com/viewtopic.php?f=194&t=31575&start=20#p260488)
 
 ## Blueprints
 
